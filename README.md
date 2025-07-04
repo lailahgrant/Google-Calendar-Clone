@@ -33,3 +33,9 @@ It is developed in PHP, MySQL, JavaScript, CSS3, HTML.
 
 - `CSS3` - for styling and responsiveness.
 
+
+### HOW TO
+- Creating the clock in JavaScript
+- Creating the Calendar in JavaScript
+
+

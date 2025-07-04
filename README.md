@@ -1,6 +1,6 @@
 # Google Calendar Clone Tutorial 
 It is developed in PHP, MySQL, JavaScript, CSS3, HTML.
-- No frameworks or library.
+- No frameworks or library used.
 
 > `Google Calender Clone`
 > - A dynamic web based scheduling application.

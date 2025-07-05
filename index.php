@@ -28,9 +28,9 @@
     <!-- CALENDAR SECTION START -->
     <div class="calendar">
       <div class="nav-btn-container">
-        <button class="nav-btn" onclick=""><i class="ri-prev">Prev</i></button>
+        <button class="nav-btn" onclick=""><i class="ri-arrow-left-double-fill"></i></button>
         <h2 id="monthYear" style="margin: 0;" ></h2>
-        <button class="nav-btn"><i class="ri-next">Next</i></button>
+        <button class="nav-btn"><i class="ri-arrow-right-double-fill"></i></button>
       </div>
 
       <div class="calendar-grid" id="calendar">

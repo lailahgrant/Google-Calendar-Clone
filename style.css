@@ -146,6 +146,7 @@ header{
     padding: 10px;
     font-size: 1rem;
     margin-top: 1rem;
+    margin-bottom: 1rem;
     border-radius: 5px;
     border: 1px solid #ccc;
 }
@@ -237,6 +238,10 @@ header{
     border-radius: 4px;
     cursor: pointer;
     transition: background .2s ease;
+}
+
+.overlay-btn:hover{
+    background: var(--primary);
 }
 
 

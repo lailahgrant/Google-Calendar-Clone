@@ -21,6 +21,7 @@ It is developed in PHP, MySQL, JavaScript, CSS3, HTML.
 - JavaScript
 - MySQL, SQL
 - Google Fonts i.e. Inter
+- XAMPP (Local MySQL Server)
 
 ### Purpose of the Languages used
 - `PHP` -  for backend scripting, form handling, database communications. How PHP interacts as a backend scripting language, how to handle data
@@ -35,7 +36,16 @@ It is developed in PHP, MySQL, JavaScript, CSS3, HTML.
 
 
 ### HOW TO
-- Creating the clock in JavaScript
-- Creating the Calendar in JavaScript
+- Create the clock in JavaScript
+- Create the Calendar in JavaScript
+
+
+#### Database and table
+- Start the XAMPP server(Apache and MySQL) 
+<img src="./xampp_start.PNG" alt="Start Xampp and MySQL servers" >
+- Go to localhost, select the tab of phpMyAdmin
+- Create a db `course_calendar`
+- create a table `appointments` in the db above with fields as `id int(11)`, `course_name varchar(255)`, `instructor_name varchar(255)`, `start_date date`, `end_date date`, `created_at timestamp`.
+<img src="./database_table.PNG" alt="database_and_table_created" >
 
 
